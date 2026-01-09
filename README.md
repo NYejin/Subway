@@ -1,2 +1,4 @@
 # Subway
-써브웨이 클론 사이트
+
+  Subway 클론페이지
+  -html, css만 사용
